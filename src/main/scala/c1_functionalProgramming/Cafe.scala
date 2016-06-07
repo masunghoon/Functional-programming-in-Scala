@@ -15,7 +15,7 @@ class Cafe {
 }
 
 class Charge(cc: String, price: Int) {
-  
+
 }
 
 class Coffee {
